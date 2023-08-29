@@ -2,46 +2,27 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Constellation Labs: A Guided Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **Constellation Labs**, a collaborative initiative focused on holistic living, cohabitation, and healing land. In less than 10 minutes, this documentation will guide you through the entire project, its philosophical underpinnings, and various business models we're exploring.
 
-## Getting Started
+## Purpose of This Repository
 
-Get started by **creating a new site**.
+This documentation serves multiple roles:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- To provide an **organized structure** for brainstorming, discussion, and decision-making.
+- To **document philosophies** that inspire the project, particularly those rooted in the Christian contemplative tradition such as the Franciscan order of monks, the Benedictines, and the Desert Fathers and Mothers.
+- To **collate resources**, be they scholarly articles, business models, or property details, so that community members can make informed decisions.
 
-### What you'll need
+### What You'll Find Here
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+This documentation is broken down into a carefully structured set of folders and Markdown files, each serving a specific purpose:
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Introduction, Overview, Objectives, Definitions**: This introductory section (which you are reading now) lays out the project, its aims, and some basic terminology.
+- **Project Philosophy**: Discusses the spiritual, motivational, and philosophical foundations of the project.
+- **Technology and Humanity**: Explores the impact of technology on human life, including discussions on the "distraction economy" and the benefits of a nature-centric lifestyle.
+- **Business Model Exploration**: Looks into various business models that could be viable for this project.
+- **Property**: Covers all aspects of property acquisition, zoning laws, and environmental considerations.
+- **Labor**: Addresses the types of labor needed, potential outreach efforts, and compensation models.
+- **Funding**: Discusses potential sources of funding and financial requirements.
+- ...and many more.
