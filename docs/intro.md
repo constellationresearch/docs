@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Constellation Labs: A Guided Introduction
+# Constellation Research: A Guided Introduction
 
-Welcome to **Constellation Labs**, a collaborative initiative focused on holistic living, cohabitation, and healing land. In less than 10 minutes, this documentation will guide you through the entire project, its philosophical underpinnings, and various business models we're exploring.
+Welcome to **Constellation Research**, a collaborative initiative focused on holistic living, cohabitation, and healing land. In less than 10 minutes, this documentation will guide you through the entire project, its philosophical underpinnings, and various business models we're exploring.
 
-## Purpose of This Repository
+## Purpose of this Repository
 
 This documentation serves multiple roles:
 
